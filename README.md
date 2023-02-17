@@ -1,4 +1,4 @@
-# az_terra_k8s_vd_acr
+# Automated Provisioning of Microsoft Azure Resources for a Modern Application Stack, including Azure Kubernetes Service Cluster, Azure Virtual Desktop, Azure Container Registry, and Full Network Infrastructure, using Terraform Infrastructure as Code
 
 Automated provisioning of Azure resources for a modern application stack, including Kubernetes cluster, virtual desktop, container registry, and network infrastructure, using Terraform IaC.
 
